@@ -1,0 +1,177 @@
+.titulo{
+    height: 20vh;
+    text-align: center;
+    font-size: 45px ;
+    color: lemonchiffon;
+    background-color: cornsilk;"
+}
+.parrafo{
+    height: 5vh;
+    background-color: darkslategray;
+    font-family: "Felix Titling", serif;
+    font-size: 20px;
+    color: lightcyan;
+}
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rosybrown;
+    box-sizing: border-box;
+
+}
+
+
+#header{
+    margin: 0;
+    width: fit-content;
+    height: 28vh;
+    background-color: darkslategray;
+
+}
+ul,ol{
+    list-style: none;
+}
+.nav li a{
+    background-color: darkslategray;
+    color: lightcyan;
+    text-decoration: lightsalmon;
+    width: 1000px;
+    padding: 10px 15px;
+    display: block;
+    margin: 0;
+    font-size: 18px;
+}
+.nav li a:hover{
+    background-color: gray;
+
+}
+.nav>li{
+    float: left;
+}
+.nav li ul{
+    display:none;
+    position: absolute;
+    min-width: 140px;
+}
+.makeup2{
+    display: flex;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+}
+.makeup{
+    display: flex;
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+.elegante{
+    display: flex;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+}
+
+.casual{
+    display: flex;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+
+}
+h1{
+    font-size: 30px;
+    color: seagreen;
+}
+h2{
+    font-size: 30px;
+    color: seagreen;
+}
+h3{
+    font-size: 30px;
+    color: seagreen;
+}
+label{
+    justify-content: center;
+    padding: 0;
+    box-sizing: border-box;
+    box-shadow: cornflowerblue;
+    -moz-border-bottom-colors: darkorchid;
+    font-family: "Felix Titling", serif;
+}
+#campoa{
+    width: 300px;
+    height: 70px;
+    font-size: 25px;
+}
+#campos{
+    width: 300px;
+    height: 70px;
+    font-size: 25px;
+}
+#campox{
+    width: 300px;
+    height: 70px;
+    font-size: 25px;
+}
+#btn-enviar{
+    width: 300px;
+    height: 70px;
+    font-size: 25px;
+}
+.imgee{
+    margin-top: 2%;
+}
+
+#header{
+    margin: 0;
+    width: fit-content;
+    height: 28vh;
+    background-color: darkslategray;
+
+}
+h1{
+    color: moccasin;
+}
+ul,ol{
+    list-style: none;
+}
+.nav li a{
+    background-color: darkslategray;
+    color: lightcyan;
+    text-decoration: lightsalmon;
+    width: 1000px;
+    padding: 10px 15px;
+    display: block;
+    margin: 0;
+    font-size: 30px;}
+
+.imagen123{
+    margin-top: 4%;
+}
+#header{
+    margin: 0;
+    width: fit-content;
+    height: 28vh;
+    background-color: darkslategray;
+
+}
+h1{
+    color: dimgray;
+}
+ul,ol{
+    list-style: none;
+}
+.nav li a{
+    background-color: darkslategray;
+    color: lightcyan;
+    text-decoration: lightsalmon;
+    width: 1000px;
+    padding: 10px 15px;
+    display: block;
+    margin: 0;
+    font-size: 30px;}
+.imagen123{
+    margin-top: 4%;
+}
